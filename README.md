@@ -11,7 +11,7 @@
 * Running it will prompt you to enter the number of points N, followed by the N points, followed by the cost of creating a new line segment
 * The output files generated must be kept in the same folder as the visualisation notebook, which can be run after the C++ code is run to visualize the result.
 * The Test folder has a script C++ code that has to be in the same folder as the tetlib.h file. It takes the number of points, and the number of segments the points should roughly lie on as input. It generates a txt file with the test case. 
-* The Documentation file has the analysis HTML pages.
+* The Documentation folder has the analysis HTML pages.
 
   
 ### :books: Libraries Used
